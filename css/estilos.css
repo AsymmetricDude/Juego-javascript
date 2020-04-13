@@ -1,0 +1,57 @@
+.jugador{
+	width: 100%;
+	height: 370px;
+	background-color: #81F7F3;
+}
+
+
+.maquina{
+	width: 100%;
+	height: 370px;
+	background-color: #00FFBF;
+}
+
+
+.piedra {width: 15%;
+		height: 150px;
+		margin-top: 7%;	
+		margin-left: 5%;		}
+
+
+.papel {width: 15%;
+		height: 150px;
+		margin-top: 7%;	
+		margin-left: 3%;		}
+
+
+.tijera {width: 15%;
+		height: 150px;
+		margin-top: 7%;	
+		margin-left: 3%;		}
+
+
+.lagarto {width: 15%;
+		height: 150px;
+		margin-top: 7%;	
+		margin-left: 3%;		}
+
+.spock {width: 15%;
+		height: 150px;
+		margin-top: 7%;	
+		margin-left: 3%;		}
+
+
+.maqui {width: 15%;
+		height: 150px;
+		display: none;
+		margin-left: 42%;
+		margin-top: 7%;			}
+
+.texto{font-size: 30px;
+font-family: arial;
+margin-left: 45%;
+position: absolute;
+top: 360px;}
+.cuadro{background-color: #DF013A;
+height: 50px;
+padding-top: 15px;}
